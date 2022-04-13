@@ -120,6 +120,12 @@ crossorigin="anonymous"></script>
         </style>
   </head>
   <body>
+    <script type="text/javascript">
+    function parent_message(e) {
+        const iframe = document.getElementById('myframe');
+        iframe.contentWindow.postMessage('message',e);
+        }
+    </script>
  
     <div class="main-content py-4 px-4">
       <section class="active" id="1">
@@ -141,7 +147,7 @@ crossorigin="anonymous"></script>
           sağlamak ister misiniz?</h5>
         <div style="text-align: center;">
           <p></p>
-          <button id="form-button" type="button" class="button" onclick="handleMenu('11')">Memnuniyet
+          <button id="form-button" type="button" class="button" onclick="parent_message('anket')">Memnuniyet
             Anketi</button>
           <p></p>
           <img src="https://github.com/basarsahinbeyoglu/MEB/blob/main/Baslangic_Resimler/meb_line_follower_basic_render.png?raw=true"
