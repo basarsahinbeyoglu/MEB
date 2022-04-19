@@ -1,3 +1,9 @@
+### GENERAL
+
+https://discord.gg/qWjbuUDRew #Discord
+
+### ÇİZGİ İZLEYEN RELATED:
+
 https://youtu.be/L9Z9YZrfCjM #MEB Ön Eleme Çizgi İzleyen Yarışması C++ Rehberi
 
 https://youtu.be/xtXv6wD4CCg #MEB Ön Eleme Çizgi İzleyen Yarışması Python Rehberi
@@ -7,3 +13,5 @@ https://youtu.be/mxTVUCykUnY #MEB Ön Eleme Temel Çizgi İzleyen Yarışması R
 https://youtu.be/nCyOs-4Ns9o #Çizgiyi Takip Etme
 
 https://youtu.be/mwIb-6FM5iQ #Başlatma Noktaları
+
+
