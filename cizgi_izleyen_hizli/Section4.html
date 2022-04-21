@@ -64,7 +64,7 @@
               çizgi sensörün ortasındaysa 16 değerini vermektedir. Komutun
               çıktısı integer veri tipindedir. Eğer çizgi yoksa komut çizgiyi en
               son gördüğü konuma göre 0 ya da 31 değerini verecektir. Örnek
-              olarak çizgiyi en son gördüğü konum 8 ise 0, 24 ise 31 değerini
+              olarak çizgiyi en son gördüğü konum 8 (yani 16'dan küçük) ise 0, 24 (yani >16'dan büyük) ise 31 değerini
               verecektir.</td>
           </tr>
           <tr>
@@ -98,12 +98,6 @@
             <td><em style="color: red;">robot.time()</em></td>
             <td>Yarış süresi boyunca geçen zamanı veren ondalıklı sayı cinsinden
               veren komuttur. (python float, cpp double)</td>
-          </tr>
-          <tr>
-            <td><span style="color: #000099;"><em>robot.out_of_tracks</em></span></td>
-            <td><em style="color: red;">robot.out_of_tracks()</em></td>
-            <td>Yarış içerisinde kaç kere pist dışına çıktığınızı veren sayıdır.
-              (pyton int, cpp int)</td>
           </tr>
           <tr>
             <td><span style="color: #000099;"><em>robot.sleep(saniye)</em></span></td>
