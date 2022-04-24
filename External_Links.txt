@@ -3,20 +3,25 @@
 https://discord.gg/qWjbuUDRew #Discord
 
 ### ÇİZGİ İZLEYEN RELATED:
-https://www.youtube.com/embed/L9Z9YZrfCjM #MEB Ön Eleme Çizgi İzleyen Yarışması C++ Rehberi
-https://www.youtube.com/embed/xtXv6wD4CCg #MEB Ön Eleme Çizgi İzleyen Yarışması Python Rehberi
-https://www.youtube.com/embed/mxTVUCykUnY #MEB Ön Eleme Temel Çizgi İzleyen Yarışması Rehberi
-https://www.youtube.com/embed/Xu2cQbJlWH4 # İLeriSeviye Yarışma Rehberi
-https://www.youtube.com/embed/nCyOs-4Ns9o #Çizgiyi Takip Etme
-https://www.youtube.com/embed/mwIb-6FM5iQ #Temel Seviye Çizgi İzleyen - Başlatma Noktaları
-https://www.youtube.com/embed/LANrMxTvoGY #Hızlı Çizgi İzleyen Detayları
-https://www.youtube.com/embed/8G3n4RRv6Lo #İleri Seviye Çizgi İzleyen - Başlatma Noktaları
-https://www.youtube.com/embed/HiITDm-WuXw #Diğer Robot Komutları
+https://www.youtube.com/embed/mxTVUCykUnY # Temel Seviye Çizgi İzleyen Yarışması Rehberi
+https://www.youtube.com/embed/Xu2cQbJlWH4 # İleri Seviye Çizgi İzleyen Yarışması Rehberi
+https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi
+https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları
+https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları
 
-### MINI-DRONE RELATED:
-https://www.youtube.com/embed/gKFP70Rtj0E #İHA Genel Bilgiler
-https://www.youtube.com/embed/0rwbzKHdRuY #Pilotaj Örneği
-https://www.youtube.com/embed/YLh9jOSmQLY #Örnek Yarışma
+# ORTAK VİDEOLAR
+https://www.youtube.com/embed/L9Z9YZrfCjM # Çizgi İzleyen Yarışması C++ Rehberi
+https://www.youtube.com/embed/xtXv6wD4CCg # Çizgi İzleyen Yarışması Python Rehberi
+https://www.youtube.com/embed/nCyOs-4Ns9o # Çizgiyi Takip Etme
+https://www.youtube.com/embed/HiITDm-WuXw # Diğer Robot Komutları
+
+### DRONE RELATED:
+https://www.youtube.com/embed/gKFP70Rtj0E # İHA Yarışma Rehberi
+https://www.youtube.com/embed/0rwbzKHdRuY # Pilotaj Örneği
+https://www.youtube.com/embed/YLh9jOSmQLY # Örnek Yarışma
+
+### MINI-SUMO RELATED:
+https://www.youtube.com/embed/BfsbSZCY6Vo #Mini Sumo Yarışması Rehberi 
 
 
 ### ANKET LİNKLERİ
