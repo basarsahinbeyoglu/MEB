@@ -24,7 +24,10 @@ https://www.youtube.com/embed/YLh9jOSmQLY # Örnek Yarışma </br>
 https://www.youtube.com/embed/BfsbSZCY6Vo #Mini Sumo Yarışması Rehberi </br>
 
 ## LABİRENT USTASI
-https://www.youtube.com/embed/Oxw78ueoob0 </br>
+https://www.youtube.com/embed/Oxw78ueoob0 # Labirent Ustası Yarışma Rehberi </br>
+https://www.youtube.com/embed/jsZKzLUpifI # Labirent Ustası - Robot Hareketi </br>
+https://www.youtube.com/embed/akDpkziA5vY # Labirent Ustası - Duvarlara Çarpmamak </br>
+https://www.youtube.com/embed/3xoCQZ6jbBY # Labirent Ustası - Diğer Robot Komutları </br>
 
 ## ANKET LİNKLERİ
 Hızlı Çizgi İzleyen - https://forms.gle/7nFaK7RvvXnnBNnd9 </br>
