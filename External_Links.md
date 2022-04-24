@@ -24,6 +24,7 @@ https://www.youtube.com/embed/YLh9jOSmQLY # Örnek Yarışma </br>
 https://www.youtube.com/embed/BfsbSZCY6Vo # Mini Sumo Yarışması Rehberi </br>
 https://www.youtube.com/embed/P4R53nLBCvY # Mini Sumo - Robot Konfigürsyonu </br>
 https://www.youtube.com/embed/jtkfusPMcrU # Mini Sumo - Robot Hareketi </br>
+https://www.youtube.com/embed/yj3XS60FlVI # Diğer Robot Komutları </br>
 
 ## LABİRENT USTASI
 https://www.youtube.com/embed/Oxw78ueoob0 # Labirent Ustası Yarışma Rehberi </br>
