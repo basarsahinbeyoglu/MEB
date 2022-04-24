@@ -23,6 +23,8 @@ https://www.youtube.com/embed/YLh9jOSmQLY # Örnek Yarışma
 ### MINI-SUMO RELATED:
 https://www.youtube.com/embed/BfsbSZCY6Vo #Mini Sumo Yarışması Rehberi 
 
+### LABİRENT USTASI
+https://www.youtube.com/embed/Oxw78ueoob0
 
 ### ANKET LİNKLERİ
 
