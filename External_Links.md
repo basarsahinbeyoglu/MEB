@@ -1,15 +1,15 @@
-### GENERAL
+## GENERAL
 
 https://discord.gg/qWjbuUDRew #Discord
 
-### ÇİZGİ İZLEYEN RELATED:
-https://www.youtube.com/embed/mxTVUCykUnY # Temel Seviye Çizgi İzleyen Yarışması Rehberi
-https://www.youtube.com/embed/Xu2cQbJlWH4 # İleri Seviye Çizgi İzleyen Yarışması Rehberi
-https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi
-https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları
-https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları
+## ÇİZGİ İZLEYEN RELATED:
+https://www.youtube.com/embed/mxTVUCykUnY # Temel Seviye Çizgi İzleyen Yarışması Rehberi </br>
+https://www.youtube.com/embed/Xu2cQbJlWH4 # İleri Seviye Çizgi İzleyen Yarışması Rehberi </br>
+https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi </br>
+https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları </br>
+https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları </br>
 
-# ORTAK VİDEOLAR
+## ORTAK VİDEOLAR
 https://www.youtube.com/embed/L9Z9YZrfCjM # Çizgi İzleyen Yarışması C++ Rehberi
 https://www.youtube.com/embed/xtXv6wD4CCg # Çizgi İzleyen Yarışması Python Rehberi
 https://www.youtube.com/embed/nCyOs-4Ns9o # Çizgiyi Takip Etme
