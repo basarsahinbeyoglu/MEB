@@ -11,6 +11,7 @@ https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması
 https://www.youtube.com/watch?v=LANrMxTvoGY </br>
 https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları </br>
 https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları </br>
+https://www.youtube.com/watch?v=8G3n4RRv6Lo </br>
 
 ### ÇİZGİ İZLEYEN ORTAK VİDEOLAR
 https://www.youtube.com/embed/L9Z9YZrfCjM # Çizgi İzleyen Yarışması C++ Rehberi </br>
