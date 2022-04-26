@@ -7,7 +7,7 @@ https://www.youtube.com/embed/mxTVUCykUnY # Temel Seviye Çizgi İzleyen Yarış
 https://www.youtube.com/watch?v=mxTVUCykUnY </br>
 https://www.youtube.com/embed/Xu2cQbJlWH4 # İleri Seviye Çizgi İzleyen Yarışması Rehberi </br>
 https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi </br>
-https://www.youtube.com/watch?v=LANrMxTvoGY
+https://www.youtube.com/watch?v=LANrMxTvoGY </br>
 https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları </br>
 https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları </br>
 
