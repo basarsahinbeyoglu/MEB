@@ -4,6 +4,7 @@ https://discord.gg/qWjbuUDRew #Discord
 
 ## ÇİZGİ İZLEYEN RELATED:
 https://www.youtube.com/embed/mxTVUCykUnY # Temel Seviye Çizgi İzleyen Yarışması Rehberi </br>
+https://www.youtube.com/watch?v=mxTVUCykUnY
 https://www.youtube.com/embed/Xu2cQbJlWH4 # İleri Seviye Çizgi İzleyen Yarışması Rehberi </br>
 https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi </br>
 https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları </br>
