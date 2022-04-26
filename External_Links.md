@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=Xu2cQbJlWH4 </br>
 https://www.youtube.com/embed/LANrMxTvoGY # Hızlı Çizgi İzleyen Yarışması Rehberi </br>
 https://www.youtube.com/watch?v=LANrMxTvoGY </br>
 https://www.youtube.com/embed/mwIb-6FM5iQ # Temel Seviye Çizgi İzleyen - Başlatma Noktaları </br>
+https://www.youtube.com/watch?v=mwIb-6FM5iQ </br>
 https://www.youtube.com/embed/8G3n4RRv6Lo # İleri Seviye Çizgi İzleyen - Başlatma Noktaları </br>
 https://www.youtube.com/watch?v=8G3n4RRv6Lo </br>
 
