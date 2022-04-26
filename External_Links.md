@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=xtXv6wD4CCg </br>
 https://www.youtube.com/embed/nCyOs-4Ns9o # Çizgiyi Takip Etme </br>
 https://www.youtube.com/watch?v=nCyOs-4Ns9o </br>
 https://www.youtube.com/embed/HiITDm-WuXw # Diğer Robot Komutları </br>
+https://www.youtube.com/watch?v=HiITDm-WuXw </br>
 
 ## DRONE RELATED:
 https://www.youtube.com/embed/gKFP70Rtj0E # İHA Yarışma Rehberi </br>
