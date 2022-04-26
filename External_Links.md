@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=HiITDm-WuXw </br>
 
 ## DRONE RELATED:
 https://www.youtube.com/embed/gKFP70Rtj0E # İHA Yarışma Rehberi </br>
+https://www.youtube.com/watch?v=gKFP70Rtj0E </br>
 https://www.youtube.com/embed/0rwbzKHdRuY # Pilotaj Örneği </br>
 https://www.youtube.com/embed/YLh9jOSmQLY # Örnek Yarışma </br>
 
